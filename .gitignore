@@ -1,0 +1,96 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ----------------------------
+# SECRETS / ENVIRONMENT
+# ----------------------------
+
+.env
+.env.*
+!.env.example
+# ----------------------------
+# PYTHON
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# VIRTUAL ENVIRONMENTS
+# ----------------------------
+venv/
+.env/
+.env.*
+
+# ----------------------------
+# JUPYTER
+# ----------------------------
+.ipynb_checkpoints/
+.nbconvert.ipynb
+
+# ----------------------------
+# DATA FILES (DO NOT COMMIT)
+# ----------------------------
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.zip
+
+# ----------------------------
+# MODEL ARTIFACTS
+# ----------------------------
+models/
+checkpoints/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# ----------------------------
+# LOGS & OUTPUTS
+# ----------------------------
+logs/
+outputs/
+mlruns/
+wandb/
+
+# ----------------------------
+# IDE / OS
+# ----------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# CACHE / TEMP
+# ----------------------------
+.cache/
+tmp/
+temp/
+
+# ----------------------------
+# SECRETS
+# ----------------------------
+*.pem
+*.key
+*.crt
+secrets/
