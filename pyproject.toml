@@ -23,6 +23,7 @@ dependencies = [
     "langchain-text-splitters>=1.1.2",
     "langgraph>=1.2.12",
     "matplotlib>=3.11.2",
+    "msoffcrypto-tool>=6.0.0",
     "openpyxl>=3.1.5",
     "pandas>=3.0.6",
     "pdfminer>=20191125",
