@@ -1,0 +1,6 @@
+Natural Language Processing (NLP)
+
+Natural Language Processing is the field of AI focused on processing human language.
+Tasks include text classification, named entity recognition, sentiment analysis,
+translation, summarization, and question answering. Modern NLP commonly uses Transformer
+architectures and attention mechanisms to model context and relationships between tokens.

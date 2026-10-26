@@ -40,3 +40,4 @@ langchain-groq
 langchain-text-splitters
 python-dotenv
 numpy
+langchain-chroma

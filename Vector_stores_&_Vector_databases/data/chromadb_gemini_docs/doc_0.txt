@@ -1,0 +1,7 @@
+Machine Learning Fundamentals
+
+Machine learning is a subset of artificial intelligence that enables systems to learn
+from data rather than being explicitly programmed for every rule. Three main types are
+supervised learning, unsupervised learning, and reinforcement learning. Supervised
+learning uses labelled examples; unsupervised learning discovers patterns in unlabelled
+data; reinforcement learning learns from actions and rewards in an environment.

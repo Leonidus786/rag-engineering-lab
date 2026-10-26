@@ -1,0 +1,6 @@
+Deep Learning and Neural Networks
+
+Deep learning is a subset of machine learning based on neural networks with multiple
+layers. It is used in computer vision, natural language processing, and speech tasks.
+Convolutional Neural Networks (CNNs) are commonly used for image-related tasks, while
+recurrent networks and Transformers can model sequential or contextual relationships.
