@@ -41,3 +41,9 @@ langchain-text-splitters
 python-dotenv
 numpy
 langchain-chroma
+langchain-core
+langchain-astradb
+google-genai
+langchain-groq
+python-dotenv
+langchain-pinecone
